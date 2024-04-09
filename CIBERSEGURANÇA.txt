@@ -1,0 +1,16 @@
+
+                         CIBERSEGURANÇA 
+
+
+firewall = monitora o tráfego de rede de entrada e saída e decide permitir ou bloquear
+tráfegos específicos de acordo com um conjunto definido de regras de segurança
+
+PORTA QUE TODO GRADUADO DE TI TEM QUE SABER: 
+
+443-HTTPS
+80 -HTTP
+22-SSH
+3389 - RDP
+3306- porta do mysql
+5432-POSTGRES
+21-FTP
